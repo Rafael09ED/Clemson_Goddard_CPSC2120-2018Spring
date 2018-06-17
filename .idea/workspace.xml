@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="cpsc2120" targetName="badCode" />
+      <config projectName="cpsc2120" targetName="lab09" />
+      <config projectName="cpsc2120" targetName="lab08" />
+      <config projectName="cpsc2120" targetName="lab07" />
+      <config projectName="cpsc2120" targetName="lab06" />
+      <config projectName="cpsc2120" targetName="lab05" />
+      <config projectName="cpsc2120" targetName="lab03" />
+      <config projectName="cpsc2120" targetName="assignment3" />
+      <config projectName="cpsc2120" targetName="assignment2" />
+      <config projectName="cpsc2120" targetName="assignment1" />
+      <config projectName="cpsc2120" targetName="lab02" />
+      <config projectName="cpsc2120" targetName="lab01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b8fe11-b931-4b30-81d6-63f333ad4750" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file leaf-file-name="Position.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment3/Position.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#107#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Position.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment3/Position.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1406">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PositionTreeNode.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment3/PositionTreeNode.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PositionTreeNode.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment3/PositionTreeNode.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mancala.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignment3/mancala.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+      <find>getFirstNodeInRange</find>
+      <find>delete</find>
+      <find>Disk.cpp</find>
+      <find>Disk.h</find>
+      <find>==</find>
+      <find>shortestPath</find>
+      <find>position</find>
+      <find>Position</find>
+      <find>cout</find>
+      <find>[0.1.2.0.3]</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\starm\Documents\projects\2120\src\lab02</dir>
+      <dir>C:\Users\starm\Documents\projects\2120\src\assignment3</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dep/DownloadProject" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lab05/TestBlister.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment1/Corpus.cpp" />
+        <option value="$PROJECT_DIR$/src/badCode/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/lab06/PropaTree.h.h" />
+        <option value="$PROJECT_DIR$/src/lab06/PropaTreeSkeleton.h" />
+        <option value="$PROJECT_DIR$/src/lab06/PropaTree2.cpp" />
+        <option value="$PROJECT_DIR$/src/lab06/PTDriver.cpp" />
+        <option value="$PROJECT_DIR$/src/lab06/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/lab06/PropaTree.h" />
+        <option value="$PROJECT_DIR$/src/lab06/PropaTree.cpp" />
+        <option value="$PROJECT_DIR$/src/lab07/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/lab07/PropaTree.cpp" />
+        <option value="$PROJECT_DIR$/src/lab07/PropaTree.h" />
+        <option value="$PROJECT_DIR$/src/lab07/PTDriver.cpp" />
+        <option value="$PROJECT_DIR$/src/lab05/Blister.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment2/RangeSet.h" />
+        <option value="$PROJECT_DIR$/src/assignment2/main.cpp" />
+        <option value="$PROJECT_DIR$/test/gtest.cpp" />
+        <option value="$PROJECT_DIR$/test/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/assignment2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/assignment1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/assignment2/RNode.h" />
+        <option value="$PROJECT_DIR$/src/assignment2/RangeSet.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment2/RNode.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment2/SyntaxChecker.cpp" />
+        <option value="$PROJECT_DIR$/src/lab08/HuffHeap.cpp" />
+        <option value="$PROJECT_DIR$/src/lab08/huffman.cpp" />
+        <option value="$PROJECT_DIR$/src/lab08/CharRecord.cpp" />
+        <option value="$PROJECT_DIR$/src/lab08/CharRecord.h" />
+        <option value="$PROJECT_DIR$/src/lab08/Disc.h" />
+        <option value="$PROJECT_DIR$/src/lab08/Disk.cpp" />
+        <option value="$PROJECT_DIR$/src/lab08/Disk.h" />
+        <option value="$PROJECT_DIR$/src/lab08/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/lab09/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/lab09/Disk.cpp" />
+        <option value="$PROJECT_DIR$/src/lab09/Disk.h" />
+        <option value="$PROJECT_DIR$/src/lab09/Stack.h" />
+        <option value="$PROJECT_DIR$/src/lab09/Stack.cpp" />
+        <option value="$PROJECT_DIR$/src/lab09/Hanoi.h" />
+        <option value="$PROJECT_DIR$/src/lab09/Hanoi.cpp" />
+        <option value="$PROJECT_DIR$/src/badCode/BadeCode.h" />
+        <option value="$PROJECT_DIR$/src/badCode/BadeCode.cpp" />
+        <option value="$PROJECT_DIR$/src/badCode/BadCode.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/assignment3/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/assignment3/SyntaxChecker3.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment3/Position.h" />
+        <option value="$PROJECT_DIR$/src/assignment3/Position.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment3/PositionTreeNode.cpp" />
+        <option value="$PROJECT_DIR$/src/assignment3/PositionTreeNode.h" />
+        <option value="$PROJECT_DIR$/src/assignment3/mancala.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="811" />
+    <option name="width" value="1624" />
+    <option name="height" value="1722" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow analysisC/C++</id>
+          </State>
+          <State>
+            <id>Declaration orderC/C++</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Type checksC/C++</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cpsc2120" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="2120" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpsc2120" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="2120" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpsc2120" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="2120" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpsc2120" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="2120" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assignment3" />
+    <property name="SearchEverywhereHistoryKey" value="&quot;Disk.cpp&quot;&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\starm\Documents\projects\2120\src\lab09" />
+      <recent name="C:\Users\starm\Documents\projects\2120" />
+      <recent name="C:\Users\starm\CLionProjects\cpsc2120\src" />
+      <recent name="C:\Users\starm\CLionProjects\cpsc2120\lab01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\starm\Documents\projects\2120\src\assignment3" />
+      <recent name="C:\Users\starm\Documents\projects\2120\src\lab09" />
+      <recent name="C:\Users\starm\Documents\projects\2120\src\lab08" />
+      <recent name="C:\Users\starm\Documents\projects\2120\src\assignment2" />
+      <recent name="C:\Users\starm\Documents\projects\2120\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.assignment3 no has">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="assignment1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="assignment2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="assignment3 1 0 2 0 7 " type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="1 0 2 0 7" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="assignment3 2 2 2 2 0" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="2 2 2 2 0" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="assignment3 3 3 3 3 3 hash" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="3 3 3 3 3 hash" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="assignment3 no has" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="2 2 2 2 0 wow" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="assignment3">
+      <envs />
+    </configuration>
+    <configuration name="badCode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="badCode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="badCode">
+      <envs />
+    </configuration>
+    <configuration name="lab01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab03" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="sample.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab08" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="ENDLESSNESS" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab08">
+      <envs />
+    </configuration>
+    <configuration name="lab09" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="8" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpsc2120" TARGET_NAME="lab09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpsc2120" RUN_TARGET_NAME="lab09">
+      <envs />
+    </configuration>
+    <list size="16">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.assignment1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.assignment2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.assignment3 2 2 2 2 0" />
+      <item index="4" class="java.lang.String" itemvalue="Application.assignment3 1 0 2 0 7 " />
+      <item index="5" class="java.lang.String" itemvalue="Application.assignment3 no has" />
+      <item index="6" class="java.lang.String" itemvalue="Application.assignment3 3 3 3 3 3 hash" />
+      <item index="7" class="java.lang.String" itemvalue="Application.badCode" />
+      <item index="8" class="java.lang.String" itemvalue="Application.lab01" />
+      <item index="9" class="java.lang.String" itemvalue="Application.lab02" />
+      <item index="10" class="java.lang.String" itemvalue="Application.lab03" />
+      <item index="11" class="java.lang.String" itemvalue="Application.lab05" />
+      <item index="12" class="java.lang.String" itemvalue="Application.lab06" />
+      <item index="13" class="java.lang.String" itemvalue="Application.lab07" />
+      <item index="14" class="java.lang.String" itemvalue="Application.lab08" />
+      <item index="15" class="java.lang.String" itemvalue="Application.lab09" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b8fe11-b931-4b30-81d6-63f333ad4750" name="Default" comment="" />
+      <created>1516635167029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516635167029</updated>
+      <workItem from="1516635168305" duration="4242000" />
+      <workItem from="1516714381216" duration="7366000" />
+      <workItem from="1517238179797" duration="8753000" />
+      <workItem from="1517427061238" duration="2581000" />
+      <workItem from="1517599326388" duration="2535000" />
+      <workItem from="1517848704730" duration="675000" />
+      <workItem from="1517945338255" duration="5511000" />
+      <workItem from="1517951247862" duration="436000" />
+      <workItem from="1517951718996" duration="436000" />
+      <workItem from="1517952373906" duration="3565000" />
+      <workItem from="1518044974375" duration="9639000" />
+      <workItem from="1518060783775" duration="602000" />
+      <workItem from="1518061597913" duration="515000" />
+      <workItem from="1518142750247" duration="9742000" />
+      <workItem from="1518445019145" duration="397000" />
+      <workItem from="1518445436398" duration="804000" />
+      <workItem from="1518448779928" duration="92000" />
+      <workItem from="1518465493146" duration="3722000" />
+      <workItem from="1519051525507" duration="5852000" />
+      <workItem from="1519058824772" duration="10000" />
+      <workItem from="1519095645129" duration="2752000" />
+      <workItem from="1519157438715" duration="1009000" />
+      <workItem from="1519228014717" duration="1102000" />
+      <workItem from="1519406963364" duration="1189000" />
+      <workItem from="1519654033206" duration="9159000" />
+      <workItem from="1519749357561" duration="1636000" />
+      <workItem from="1519849487546" duration="1855000" />
+      <workItem from="1520264344312" duration="1704000" />
+      <workItem from="1520395421208" duration="6366000" />
+      <workItem from="1520607275371" duration="664000" />
+      <workItem from="1520966312986" duration="16421000" />
+      <workItem from="1520983679532" duration="104000" />
+      <workItem from="1520983813616" duration="25651000" />
+      <workItem from="1522073950576" duration="4705000" />
+      <workItem from="1522851139240" duration="19945000" />
+      <workItem from="1523381050081" duration="1983000" />
+      <workItem from="1523383227253" duration="1365000" />
+      <workItem from="1523891405131" duration="1975000" />
+      <workItem from="1524338675281" duration="34463000" />
+      <workItem from="1524460073819" duration="7801000" />
+      <workItem from="1524585625748" duration="10657000" />
+      <workItem from="1524621818869" duration="3360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223757000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-14" y="-14" width="3228" height="1738" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21968254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847223" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2951389" sideWeight="0.5012698" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2951389" sideWeight="0.49873015" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38333333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36180556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="10000" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/dep/DownloadProject" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="rootState-&gt;_M_impl._M_finish" />
+        <watch expression="((std::allocator&lt;int&gt;::pointer)(rootState-&gt;_M_impl._M_finish))" />
+        <watch expression="this-&gt;rootNode-&gt;value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this-&gt;excessNodes.size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp-&gt;min &lt; val</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp-&gt;next == nullptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp-&gt;next != nullptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeToInsert &gt; temp</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab01/NumberCount.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2/RangeSet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1961">
+          <caret line="53" column="40" lean-forward="false" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2/RNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/huffman.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/HuffHeap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/CharRecord.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/huffman.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/HuffHeap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1184">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/CharRecord.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="518" column="6" lean-forward="false" selection-start-line="518" selection-start-column="6" selection-end-line="518" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/Stack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/Disk.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/Stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/Disk.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stringfwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/badCode/BadeCode.h" />
+    <entry file="file://$PROJECT_DIR$/src/lab09/Hanoi.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/badCode/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/badCode/BadCode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab08/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="91" lean-forward="false" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab09/Hanoi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02/PosPoly.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment2/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment1/Corpus.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment1/MySentence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment1/SyntaxChecker1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="192" column="6" lean-forward="false" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_function.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="355" column="19" lean-forward="false" selection-start-line="355" selection-start-column="19" selection-end-line="355" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="348" column="4" lean-forward="false" selection-start-line="348" selection-start-column="4" selection-end-line="348" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/hashtable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/hashtable_policy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="84" column="36" lean-forward="false" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment1/Runner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment1/MySentence.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1179">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/SyntaxChecker3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_pair.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="195" column="10" lean-forward="false" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/unordered_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="411" column="6" lean-forward="false" selection-start-line="411" selection-start-column="6" selection-end-line="411" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="5037" column="0" lean-forward="false" selection-start-line="5037" selection-start-column="0" selection-end-line="5037" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/22220hash.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="425" column="0" lean-forward="false" selection-start-line="425" selection-start-column="0" selection-end-line="425" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/10207.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/Position.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#107#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/Position.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/PositionTreeNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/PositionTreeNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment3/mancala.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

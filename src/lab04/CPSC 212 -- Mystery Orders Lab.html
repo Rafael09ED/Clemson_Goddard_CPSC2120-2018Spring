@@ -1,0 +1,83 @@
+<html>
+<head>
+   <title> CPSC 212  -- Mystery Orders Lab</title>
+</head>
+<body>
+
+<center>
+<h3>
+<u><font size=+1>CPSC 212  Mystery Orders Lab</font></u></h3></center>
+
+<p>In this lab you will measure the run times of five different
+programs and estimate their time complexities. 
+
+<p>
+To speed up things, the executable just returns a number
+stating the 'time' it takes. 
+Copy the java class file 
+<tt>TimeSink.class</tt>. It takes two arguments: a number
+between 1 and 5, and a value for N. For example,
+<blockquote>
+<pre>java TimeSink 3 55</pre>
+</blockquote>
+There is a
+built-in 'time limit' so that the program will 'abort'
+for values that are too large.
+
+<ol>
+<li>
+Create a table with times for each program, say with
+values of N being 4, 6, 10, 20 50, 100, 200.
+Fill in most of the table. 
+
+<p>
+<li>
+Determine the time complexity of each
+program. Give brief justification.
+</ol>
+
+<p>
+<h3>
+<font size=+1>Hints for determining the complexity of a program</font></h3>
+
+<ul>
+<li>
+The complexities have been chosen from the following list of functions
+of N:
+<tt>constant</tt>,
+<tt>log N</tt>,
+<tt>N</tt>,
+<tt>N log N</tt>,
+<tt>N^2</tt>,
+<tt>N^3</tt>,
+<tt>2^N</tt>,
+<tt>fibonacci(N)</tt>,
+<tt>factorial(N)</tt></li>
+</ul>
+
+<ul>
+<li>
+Using a graphing application to plot the data points might help.
+</li>
+
+<li>
+Note that time measurements
+will vary slightly from one run to the next.
+You might average a few runs with
+the same input.</li>
+
+<li>
+As you look for a pattern, look at the larger times first.</li>
+
+<li>
+In each program, there is a certain amount of overhead built in. This overhead
+is the same regardless of the input parameter. You might want to subtract
+the shortest run time from the other runs to try to eliminate this.</li>
+
+<li>
+If necessary, run the program for a few of the intermediate 
+numbers.</li>
+</ul>
+
+</body>
+</html>

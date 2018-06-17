@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.8)
+project(cpsc2120)
+
+add_subdirectory(src/badCode)
+
+add_subdirectory(src/lab01)
+add_subdirectory(src/lab02)
+add_subdirectory(src/lab03)
+add_subdirectory(src/assignment1)
+add_subdirectory(src/assignment2)
+add_subdirectory(src/assignment3)
+add_subdirectory(src/lab05)
+add_subdirectory(src/lab06)
+add_subdirectory(src/lab07)
+add_subdirectory(src/lab08)
+add_subdirectory(src/lab09)
